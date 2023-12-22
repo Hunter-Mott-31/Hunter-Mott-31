@@ -1,6 +1,6 @@
 👋 Hello folks, I’m @Hunter-Mott-31 👋
 
-- 👀 I’m interested in analytical projects and models pertaining to Sports, Economics, and AI LLMs
+- 👀 I’m interested in analytical projects that utilize machine learning models pertaining to Sports, Economics, and AI LLMs
   
 - 🌱 I’m currently learning and trying to master Python, R, Machine Learning Models (Supervised/Unsupervised/Neural Nets etc.), and AI LLMs
   
